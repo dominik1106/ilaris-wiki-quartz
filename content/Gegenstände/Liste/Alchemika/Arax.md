@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-10-30T18:49:03.211Z
-modified: 2026-10-30T18:51:17.593Z
-published: 2026-10-30T18:51:17.593Z
+modified: 2026-10-30T19:01:36.947Z
+published: 2026-10-30T19:01:36.947Z
 tags:
   - gegenstand
   - herstellbar
@@ -34,14 +34,16 @@ herstellung_material_verbreitung: 11
 
 # Wirkung
 
-| Stufe | Wirkung |
-| :---: | ------- |
-|   A   |         |
-|   B   |         |
-|   C   |         |
-|   D   |         |
-|   E   |         |
-|   F   |         |
+Ein nicht tödliches Waffengift, eine Anwendung reicht für 1W6 Treffer
+
+| Stufe | Wirkung                                 |
+| :---: | --------------------------------------- |
+|   A   | Giftstufe: 16,<br>Körperliche Proben -1 |
+|   B   | Giftstufe: 20,<br>Körperliche Proben -2 |
+|   C   | Giftstufe: 24,<br>Körperliche Proben -3 |
+|   D   | Giftstufe: 28,<br>Körperliche Proben -4 |
+|   E   | Giftstufe: 32,<br>Körperliche Proben -5 |
+|   F   | Giftstufe: 36,<br>komplette Lähmung     |
 
 # Herstellung
 

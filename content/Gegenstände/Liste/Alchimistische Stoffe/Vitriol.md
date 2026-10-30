@@ -1,16 +1,24 @@
 ---
 publish: true
+aliases:
+  - Schwefelsäure
 created: 2026-10-30T18:42:27.727Z
-modified: 2026-10-30T18:43:11.096Z
-published: 2026-10-30T18:43:11.096Z
+modified: 2026-10-30T19:14:44.031Z
+published: 2026-10-30T19:14:44.031Z
 tags:
   - gegenstand
-aliases:
 kategorie:
-preis:
+  - "[[Alchimistische Stoffe]]"
+preis: 6000
 preis_max:
 preis_notiz:
-einheit:
+einheit: Stein
 gewicht:
 haltbarkeit:
 ---
+
+> _Auch bekannt als:\
+> **Schwefelsäure**_
+
+- **Kategorie:** [[Gegenstände/Kategorien/Alchimistische Stoffe|Alchimistische Stoffe]]
+- **Preis**: 6 D / Stein
