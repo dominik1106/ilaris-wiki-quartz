@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-10-30T14:43:11.222Z
-modified: 2026-10-30T15:10:04.091Z
-published: 2026-10-30T15:10:04.091Z
+modified: 2026-10-30T17:17:59.447Z
+published: 2026-10-30T17:17:59.447Z
 tags:
   - gegenstand
   - herstellbar
@@ -50,9 +50,8 @@ herstellung_material_verbreitung: "9"
 
 ## Materialien
 
+> **Kosten**: ca. 23 D\
+> **Verbreitung**: 9
+
 - 1 Skrupel Smaragdstaub
 - 1 Unze Brabaker Vitriol
-
-> **Kosten**: ca. 23 D
-
-> **Verbreitung**: 9
