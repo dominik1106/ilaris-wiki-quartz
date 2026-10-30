@@ -1,6 +1,6 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: Quartz 5
+  pageTitle: Ilaris Wiki
   pageTitleSuffix: ""
   enableSPA: true
   enablePopovers: true
@@ -11,6 +11,7 @@ configuration:
   ignorePatterns:
     - private
     - templates
+    - "Templates"
     - .obsidian
   theme:
     fontOrigin: googleFonts
@@ -203,7 +204,7 @@ plugins:
       priority: 35
       group: toolbar
   - source: "@quartz-community/breadcrumbs"
-    enabled: true
+    enabled: false
     layout:
       position: beforeBody
       priority: 5
