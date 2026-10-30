@@ -2,9 +2,28 @@
 publish: true
 created: 2026-10-30T14:43:11.222Z
 modified: 2026-10-30T15:10:04.091Z
+published: 2026-10-30T15:10:04.091Z
 tags:
   - gegenstand
   - herstellbar
+aliases:
+kategorie:
+  - "[[Gegenstände/Kategorien/Alchemika|Alchemika]]"
+preis: 46000
+preis_max:
+preis_notiz:
+einheit: Stück
+gewicht:
+haltbarkeit: 1 Jahr
+herstellung_talent: magische Elixiere
+herstellung_schwierigkeit: 16
+herstellung_werkzeug: Hexenküche
+herstellung_dauer: 8 Stunden
+herstellung_materialien:
+  - 1 Skrupel Smaragdstaub
+  - 1 Unze Brabaker Vitriol
+herstellung_material_kosten: 23000
+herstellung_material_verbreitung: "9"
 ---
 
 - **Kategorie:** [[Gegenstände/Kategorien/Alchemika|Alchemika]]
