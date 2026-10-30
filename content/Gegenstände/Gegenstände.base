@@ -1,0 +1,10 @@
+filters:
+  and:
+    - file.hasTag("gegenstand")
+    - file.folder != "Templates"
+views:
+  - type: table
+    name: View
+    order:
+      - file.name
+      - preis
