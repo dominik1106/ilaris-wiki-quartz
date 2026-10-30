@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-10-30T14:43:11.222Z
-modified: 2026-10-30T17:17:59.447Z
-published: 2026-10-30T17:17:59.447Z
+modified: 2026-10-30T18:48:13.842Z
+published: 2026-10-30T18:48:13.842Z
 tags:
   - gegenstand
   - herstellbar
@@ -20,10 +20,16 @@ herstellung_schwierigkeit: 16
 herstellung_werkzeug: Hexenküche
 herstellung_dauer: 8 Stunden
 herstellung_materialien:
-  - 1 Skrupel Smaragdstaub
-  - 1 Unze Brabaker Vitriol
+  - 1 Blüte vom Schwarzen Lotus
+  - 1 Liter geharzter Wein
+  - 1 Gran Tulmadron
+  - 1 Giftzahn einer Nesselviper
+  - das Weiße eines Storcheneis
+  - 5 Unzen Menchalsaft
+  - 7 Blätter Belmart
+  - 1 Unze Zinober
 herstellung_material_kosten: 23000
-herstellung_material_verbreitung: "9"
+herstellung_material_verbreitung: 7
 ---
 
 - **Kategorie:** [[Gegenstände/Kategorien/Alchemika|Alchemika]]
@@ -39,7 +45,7 @@ herstellung_material_verbreitung: "9"
 |   C   | Hebt Gifte bis Stufe 20 auf.                                                                              |
 |   D   | Hebt Gifte bis Stufe 24 auf.                                                                              |
 |   E   | Hebt Gifte bis Stufe 28 auf.                                                                              |
-|   F   | Hebt augenblicklich jegliches Gift auf.
+|   F   | Hebt augenblicklich jegliches Gift auf.                                                                   |
 
 # Herstellung
 
@@ -51,7 +57,13 @@ herstellung_material_verbreitung: "9"
 ## Materialien
 
 > **Kosten**: ca. 23 D\
-> **Verbreitung**: 9
+> **Verbreitung**: 7
 
-- 1 Skrupel Smaragdstaub
-- 1 Unze Brabaker Vitriol
+- 1 Blüte vom Schwarzen Lotus
+- 1 Liter geharzter Wein
+- 1 Gran Tulmadron
+- 1 Giftzahn einer Nesselviper
+- das Weiße eines Storcheneis
+- 5 Unzen Menchalsaft
+- 7 Blätter Belmart
+- 1 Unze Zinober

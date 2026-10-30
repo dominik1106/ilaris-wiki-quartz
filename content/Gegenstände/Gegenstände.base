@@ -7,4 +7,3 @@ views:
     name: View
     order:
       - file.name
-      - preis

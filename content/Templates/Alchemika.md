@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-10-30T13:23:27.946Z
-modified: 2026-10-30T14:42:56.768Z
-published: 2026-10-30T14:42:56.768Z
+modified: 2026-10-30T18:44:53.656Z
+published: 2026-10-30T18:44:53.656Z
 tags:
   - gegenstand
   - herstellbar
@@ -36,3 +36,5 @@ herstellung_material_verbreitung:
 |   D   |         |
 |   E   |         |
 |   F   |         |
+
+# Herstellung
