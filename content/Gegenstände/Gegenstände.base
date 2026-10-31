@@ -6,6 +6,8 @@ formulas:
   preis_anzeige: if(preis % 1000 == 0, (preis / 1000) + " D", if(preis % 100 == 0, (preis / 100) + " S", if(preis % 10 == 0, (preis / 10) + " H", preis + " K")))
   preis_max_anzeige: if(preis_max % 1000 == 0, (preis_max / 1000) + " D", if(preis_max % 100 == 0, (preis_max / 100) + " S", if(preis_max % 10 == 0, (preis_max / 10) + " H", preis_max + " K")))
   Preis: if(preis_max.isEmpty() || preis_max == preis, formula.preis_anzeige, formula.preis_anzeige + " - " + formula.preis_max_anzeige)
+  Kategorie: Kategorie.map(value.asFile().basename).join(", ")
+  Materialkosten: if(preis % 1000 == 0, (preis / 1000) + " D", if(preis % 100 == 0, (preis / 100) + " S", if(preis % 10 == 0, (preis / 10) + " H", preis + " K")))
 properties:
   note.preis:
     displayName: Preis in Kreuzern
@@ -19,11 +21,21 @@ properties:
     displayName: Andere Namen
   note.aussehen:
     displayName: Aussehen
+  note.herstellung_schwierigkeit:
+    displayName: Probenschwierigkeit
+  note.herstellung_material_verbreitung:
+    displayName: Material Verbreitung
+  note.haltbarkeit:
+    displayName: Haltbarkeit
+  note.herstellung_talent:
+    displayName: Talent
+  note.herstellung_werkzeug:
+    displayName: Werkzeug
 views:
   - type: table
     name: Standard
     groupBy:
-      property: kategorie
+      property: formula.Kategorie
       direction: ASC
     order:
       - file.name
@@ -49,3 +61,16 @@ views:
         direction: ASC
       - property: preis
         direction: ASC
+  - type: table
+    name: Alchemika
+    filters:
+      and:
+        - kategorie.contains(link("Gegenstände/Kategorien/Alchemika", "Alchemika"))
+    order:
+      - file.name
+      - herstellung_talent
+      - herstellung_schwierigkeit
+      - herstellung_werkzeug
+      - formula.Materialkosten
+      - herstellung_material_verbreitung
+      - haltbarkeit
