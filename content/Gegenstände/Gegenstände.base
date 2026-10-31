@@ -33,6 +33,12 @@ properties:
     displayName: Werkzeug
   note.preis_notiz:
     displayName: Anmerkung Preis
+  note.gewicht:
+    displayName: Gewicht
+  note.fassungsvermoegen:
+    displayName: Fassungsvermögen
+  note.herstellung_dauer:
+    displayName: Herstellungsdauer
 views:
   - type: table
     name: Standard
@@ -74,6 +80,7 @@ views:
       - herstellung_werkzeug
       - formula.Materialkosten
       - herstellung_material_verbreitung
+      - herstellung_dauer
       - haltbarkeit
   - type: table
     name: Alchimistische Stoffe
@@ -91,3 +98,13 @@ views:
       note.preis_notiz: 116
       note.aliases: 138
       note.preis: 119
+  - type: table
+    name: Behälter
+    filters:
+      and:
+        - kategorie.contains(link("Behälter"))
+    order:
+      - file.name
+      - formula.Preis
+      - gewicht
+      - fassungsvermoegen
