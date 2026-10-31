@@ -204,7 +204,7 @@ plugins:
       priority: 35
       group: toolbar
   - source: "@quartz-community/breadcrumbs"
-    enabled: false
+    enabled: true
     layout:
       position: beforeBody
       priority: 5
@@ -221,8 +221,7 @@ plugins:
     enabled: true
     options:
       links:
-        GitHub: https://github.com/jackyzha0/quartz
-        Discord Community: https://discord.gg/cRFFHYye7t
+        GitHub: https://github.com/dominik1106/ilaris-wiki-quartz
     layout:
       position: footer
       priority: 50
