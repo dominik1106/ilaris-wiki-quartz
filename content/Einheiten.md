@@ -1,34 +1,35 @@
 ---
 publish: true
 created: 2026-10-31T13:20:05.540Z
-modified: 2026-10-31T13:23:31.454Z
-published: 2026-10-31T13:23:31.454Z
+modified: 2026-10-31T13:39:05.108Z
+published: 2026-10-31T13:39:05.108Z
 gewicht:
   - name: Gran
-    abk: gr
-    uz: 0.001
+    gran: 1
   - name: Karat
-    abk: kt
-    uz: 0.008
+    gran: 5
   - name: Skrupel
-    abk: sk
-    uz: 0.04
+    gran: 25
   - name: Unze
-    abk: uz
-    uz: 1
+    gran: 625
   - name: Stein
-    abk: st
-    uz: 40
+    gran: 25000
+  - name: Sack
+    gran: 250000
   - name: Quader
-    abk: qu
-    uz: 40000
+    gran: 2500000
 ---
 
-|1 ↓ = x →6|Gran|Karat|Skrupel|Unze|Stein|Quader|
-|---|---|---|---|---|---|---|
-|**Gran**|1||||||
-|**Karat**|8|1|||||
-|**Skrupel**|40|5|1||||
-|**Unze**|1.000|125|25|1|||
-|**Stein**|40.000|5.000|1.000|40|1||
-|**Quader**|40.000.000|5.000.000|1.000.000|40.000|1.000|1|
+# Gewicht
+
+Umrechnungsmatrix
+
+|1↓ / x→|Gran|Karat|Skrupel|Unze|Stein|Sack|Quader|
+|---|---|---|---|---|---|---|---|
+|**Gran**|1|1/5|1/25|1/625|1/25.000|1/250.000|1/2.500.000|
+|**Karat**|5|1|1/5|1/125|1/5.000|1/50.000|1/500.000|
+|**Skrupel**|25|5|1|1/25|1/1.000|1/10.000|1/100.000|
+|**Unze**|625|125|25|1|1/40|1/400|1/4.000|
+|**Stein**|25.000|5.000|1.000|40|1|1/10|1/100|
+|**Sack**|250.000|50.000|10.000|400|10|1|1/10|
+|**Quader**|2.500.000|500.000|100.000|4.000|100|10|1|
