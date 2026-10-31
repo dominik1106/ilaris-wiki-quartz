@@ -6,7 +6,7 @@ formulas:
   preis_anzeige: if(preis % 1000 == 0, (preis / 1000) + " D", if(preis % 100 == 0, (preis / 100) + " S", if(preis % 10 == 0, (preis / 10) + " H", preis + " K")))
   preis_max_anzeige: if(preis_max % 1000 == 0, (preis_max / 1000) + " D", if(preis_max % 100 == 0, (preis_max / 100) + " S", if(preis_max % 10 == 0, (preis_max / 10) + " H", preis_max + " K")))
   Preis: if(preis_max.isEmpty() || preis_max == preis, formula.preis_anzeige, formula.preis_anzeige + " - " + formula.preis_max_anzeige)
-  Kategorie: Kategorie.map(value.asFile().basename).join(", ")
+  Kategorie: Kategorie.map(value.toString().replace(/^.*[|\/]|^\[\[|\]\]$/g, "")).join(", ")
   Materialkosten: if(preis % 1000 == 0, (preis / 1000) + " D", if(preis % 100 == 0, (preis / 100) + " S", if(preis % 10 == 0, (preis / 10) + " H", preis + " K")))
 properties:
   note.preis:
@@ -31,6 +31,8 @@ properties:
     displayName: Talent
   note.herstellung_werkzeug:
     displayName: Werkzeug
+  note.preis_notiz:
+    displayName: Anmerkung Preis
 views:
   - type: table
     name: Standard
@@ -74,3 +76,19 @@ views:
       - formula.Materialkosten
       - herstellung_material_verbreitung
       - haltbarkeit
+  - type: table
+    name: Alchimistische Stoffe
+    filters:
+      and:
+        - kategorie.contains(link("Alchimistische Stoffe"))
+    order:
+      - file.name
+      - formula.Preis
+      - einheit
+      - preis_notiz
+      - aliases
+      - preis
+    columnSize:
+      note.preis_notiz: 116
+      note.aliases: 138
+      note.preis: 119

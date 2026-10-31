@@ -20,5 +20,5 @@ haltbarkeit:
 > _Auch bekannt als:\
 > **Schwefelsäure**_
 
-- **Kategorie:** [[Gegenstände/Kategorien/Alchimistische Stoffe|Alchimistische Stoffe]]
+- **Kategorie:** [[Templates/Alchimistische Stoffe|Alchimistische Stoffe]]
 - **Preis**: 6 D / Stein
