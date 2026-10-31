@@ -1,0 +1,15 @@
+diff --git a/node_modules/@quartz-community/bases-page/dist/chunk-EL2TIBZL.js b/node_modules/@quartz-community/bases-page/dist/chunk-EL2TIBZL.js
+index 4f3c7c8..890ba85 100644
+--- a/node_modules/@quartz-community/bases-page/dist/chunk-EL2TIBZL.js
++++ b/node_modules/@quartz-community/bases-page/dist/chunk-EL2TIBZL.js
+@@ -328,7 +328,9 @@ function isEmptyValue(value) {
+   return false;
+ }
+ function getColumnLabel(column, basesData) {
+-  const config = basesData.properties?.[column];
++  const props = basesData.properties;
++  // Obsidian stores note properties as "note.<name>", while view.order uses the bare "<name>"
++  const config = props?.[column] ?? (column.startsWith("note.") ? props?.[column.slice(5)] : props?.[`note.${column}`]);
+   if (config?.displayName) return config.displayName;
+   const segment = column.split(".").pop() ?? column;
+   return segment.split("_").map((part) => part ? part.charAt(0).toUpperCase() + part.slice(1) : part).join(" ");
