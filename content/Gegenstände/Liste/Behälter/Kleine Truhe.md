@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-10-31T21:56:16.286Z
-modified: 2026-10-31T21:56:49.322Z
-published: 2026-10-31T21:56:49.322Z
+modified: 2026-10-31T22:50:57.528Z
+published: 2026-10-31T22:50:57.528Z
 tags:
   - gegenstand
 aliases:
@@ -17,7 +17,7 @@ haltbarkeit:
 fassungsvermoegen: 50 Stein
 ---
 
-- **Kategorie:** [[Templates/Behälter|Behälter]]
+- **Kategorie:** [[Gegenstände/Kategorien/Behälter|Behälter]]
 - **Preis**: 8 S / Stück
 - **Gewicht**: 200 Unzen
 - **Fassungsvermögen**: 50 Stein

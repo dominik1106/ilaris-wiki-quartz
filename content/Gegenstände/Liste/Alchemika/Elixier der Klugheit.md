@@ -1,14 +1,14 @@
 ---
 publish: true
 created: 2026-10-30T19:28:46.530Z
-modified: 2026-10-30T19:30:00.891Z
-published: 2026-10-30T19:30:00.891Z
+modified: 2026-10-31T22:50:57.534Z
+published: 2026-10-31T22:50:57.534Z
 tags:
   - gegenstand
   - herstellbar
 aliases:
 kategorie:
-  - "[[Gegenstände/Kategorien/Alchemika|Alchemika]]"
+  - "[[Alchemika]]"
 preis: 46000
 preis_max:
 preis_notiz:

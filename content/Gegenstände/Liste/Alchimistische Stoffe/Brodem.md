@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-10-31T20:10:02.392Z
-modified: 2026-10-31T20:10:56.419Z
-published: 2026-10-31T20:10:56.419Z
+modified: 2026-10-31T22:50:57.531Z
+published: 2026-10-31T22:50:57.531Z
 tags:
   - gegenstand
 aliases:
@@ -16,7 +16,7 @@ gewicht:
 haltbarkeit:
 ---
 
-- **Kategorie:** [[Templates/Alchimistische Stoffe|Alchimistische Stoffe]]
+- **Kategorie:** [[Gegenstände/Kategorien/Alchimistische Stoffe|Alchimistische Stoffe]]
 - **Preis**: 6 D / Schank
 
 > sondert giftige rötliche Dampfe ab

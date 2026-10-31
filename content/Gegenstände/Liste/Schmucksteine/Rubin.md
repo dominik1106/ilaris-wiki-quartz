@@ -3,8 +3,8 @@ publish: true
 aliases:
   - Almadin
 created: 2026-10-31T19:33:53.572Z
-modified: 2026-10-31T19:34:15.808Z
-published: 2026-10-31T19:34:15.808Z
+modified: 2026-10-31T22:50:57.537Z
+published: 2026-10-31T22:50:57.537Z
 tags:
   - gegenstand
 kategorie:

@@ -3,8 +3,8 @@ publish: true
 aliases:
   - Schwefelsäure
 created: 2026-10-30T18:42:27.727Z
-modified: 2026-10-31T12:14:11.636Z
-published: 2026-10-31T12:14:11.636Z
+modified: 2026-10-31T22:50:57.531Z
+published: 2026-10-31T22:50:57.531Z
 tags:
   - gegenstand
 kategorie:
@@ -20,5 +20,5 @@ haltbarkeit:
 > _Auch bekannt als:\
 > **Schwefelsäure**_
 
-- **Kategorie:** [[Templates/Alchimistische Stoffe|Alchimistische Stoffe]]
+- **Kategorie:** [[Gegenstände/Kategorien/Alchimistische Stoffe|Alchimistische Stoffe]]
 - **Preis**: 6 D / Stein

@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-10-31T22:05:55.813Z
-modified: 2026-10-31T22:06:23.978Z
-published: 2026-10-31T22:06:23.978Z
+modified: 2026-10-31T22:50:57.529Z
+published: 2026-10-31T22:50:57.529Z
 tags:
   - gegenstand
 aliases:
@@ -17,7 +17,7 @@ haltbarkeit:
 fassungsvermoegen: 5 Schank
 ---
 
-- **Kategorie:** [[Templates/Behälter|Behälter]]
+- **Kategorie:** [[Gegenstände/Kategorien/Behälter|Behälter]]
 - **Preis**: 2 S / Stück
 - **Gewicht**: 8 Unzen
 - **Fassungsvermögen**: 5 Schank

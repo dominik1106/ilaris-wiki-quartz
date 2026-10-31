@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-10-31T22:06:25.608Z
-modified: 2026-10-31T22:06:37.638Z
-published: 2026-10-31T22:06:37.638Z
+modified: 2026-10-31T22:50:57.529Z
+published: 2026-10-31T22:50:57.529Z
 tags:
   - gegenstand
 aliases:
@@ -17,6 +17,6 @@ haltbarkeit:
 fassungsvermoegen:
 ---
 
-- **Kategorie:** [[Templates/Behälter|Behälter]]
+- **Kategorie:** [[Gegenstände/Kategorien/Behälter|Behälter]]
 - **Preis**: 5 H / Stück
 - **Gewicht**: 8 Unzen

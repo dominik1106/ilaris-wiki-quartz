@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-10-31T22:03:47.878Z
-modified: 2026-10-31T22:04:06.669Z
-published: 2026-10-31T22:04:06.669Z
+modified: 2026-10-31T22:50:57.527Z
+published: 2026-10-31T22:50:57.527Z
 tags:
   - gegenstand
 aliases:
@@ -17,7 +17,7 @@ haltbarkeit:
 fassungsvermoegen: 10 Flux
 ---
 
-- **Kategorie:** [[Templates/Behälter|Behälter]]
+- **Kategorie:** [[Gegenstände/Kategorien/Behälter|Behälter]]
 - **Preis**: 5 H / Stück
 - **Gewicht**: 10 Unzen
 - **Fassungsvermögen**: 10 Flux

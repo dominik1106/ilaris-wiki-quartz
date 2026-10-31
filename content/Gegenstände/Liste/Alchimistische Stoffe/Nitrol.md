@@ -3,8 +3,8 @@ publish: true
 aliases:
   - Rauchendes Braunol
 created: 2026-10-31T20:14:53.183Z
-modified: 2026-10-31T20:15:13.730Z
-published: 2026-10-31T20:15:13.730Z
+modified: 2026-10-31T22:50:57.531Z
+published: 2026-10-31T22:50:57.531Z
 tags:
   - gegenstand
 kategorie:
@@ -20,5 +20,5 @@ haltbarkeit:
 > _Auch bekannt als:\
 > **Rauchendes Braunol**_
 
-- **Kategorie:** [[Templates/Alchimistische Stoffe|Alchimistische Stoffe]]
+- **Kategorie:** [[Gegenstände/Kategorien/Alchimistische Stoffe|Alchimistische Stoffe]]
 - **Preis**: 12 D / Stein

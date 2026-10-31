@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-10-31T13:20:05.540Z
-modified: 2026-10-31T15:25:06.112Z
-published: 2026-10-31T15:25:06.112Z
+modified: 2026-10-31T22:51:07.884Z
+published: 2026-10-31T22:51:07.884Z
 basis_gewicht: Unze
 gran_in_g: 0.04
 gewicht:

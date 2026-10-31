@@ -3,8 +3,8 @@ publish: true
 aliases:
   - Asphalt
 created: 2026-10-31T20:10:28.921Z
-modified: 2026-10-31T20:11:16.714Z
-published: 2026-10-31T20:11:16.714Z
+modified: 2026-10-31T22:50:57.532Z
+published: 2026-10-31T22:50:57.532Z
 tags:
   - gegenstand
 kategorie:
@@ -20,5 +20,5 @@ haltbarkeit:
 > _Auch bekannt als:\
 > **Asphalt**_
 
-- **Kategorie:** [[Templates/Alchimistische Stoffe|Alchimistische Stoffe]]
+- **Kategorie:** [[Gegenstände/Kategorien/Alchimistische Stoffe|Alchimistische Stoffe]]
 - **Preis**: 2 D / Stein

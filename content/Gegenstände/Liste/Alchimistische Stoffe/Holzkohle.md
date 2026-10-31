@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-10-31T20:12:10.274Z
-modified: 2026-10-31T20:12:34.648Z
-published: 2026-10-31T20:12:34.648Z
+modified: 2026-10-31T22:50:57.531Z
+published: 2026-10-31T22:50:57.531Z
 tags:
   - gegenstand
 aliases:
@@ -16,5 +16,5 @@ gewicht:
 haltbarkeit:
 ---
 
-- **Kategorie:** [[Templates/Alchimistische Stoffe|Alchimistische Stoffe]]
+- **Kategorie:** [[Gegenstände/Kategorien/Alchimistische Stoffe|Alchimistische Stoffe]]
 - **Preis**: 2 H - 1 D / Stein (je nach Holzart)

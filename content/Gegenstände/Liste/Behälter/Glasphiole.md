@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-10-31T22:03:21.567Z
-modified: 2026-10-31T22:03:44.498Z
-published: 2026-10-31T22:03:44.498Z
+modified: 2026-10-31T22:50:57.529Z
+published: 2026-10-31T22:50:57.529Z
 tags:
   - gegenstand
 aliases:
@@ -17,7 +17,7 @@ haltbarkeit:
 fassungsvermoegen: 3 Flux
 ---
 
-- **Kategorie:** [[Templates/Behälter|Behälter]]
+- **Kategorie:** [[Gegenstände/Kategorien/Behälter|Behälter]]
 - **Preis**: 5 S / Stück
 - **Gewicht**: 4 Unzen
 - **Fassungsvermögen**: 3 Flux

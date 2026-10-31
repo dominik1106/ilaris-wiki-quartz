@@ -3,8 +3,8 @@ publish: true
 aliases:
   - Emerald
 created: 2026-10-31T19:32:26.712Z
-modified: 2026-10-31T19:33:34.093Z
-published: 2026-10-31T19:33:34.093Z
+modified: 2026-10-31T22:50:57.538Z
+published: 2026-10-31T22:50:57.538Z
 tags:
   - gegenstand
 kategorie:

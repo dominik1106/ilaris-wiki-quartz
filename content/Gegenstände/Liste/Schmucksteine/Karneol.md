@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-10-31T19:18:17.046Z
-modified: 2026-10-31T19:18:34.256Z
-published: 2026-10-31T19:18:34.256Z
+modified: 2026-10-31T22:50:57.539Z
+published: 2026-10-31T22:50:57.539Z
 tags:
   - gegenstand
 aliases:

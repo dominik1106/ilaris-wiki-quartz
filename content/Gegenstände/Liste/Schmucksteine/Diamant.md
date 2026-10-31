@@ -3,8 +3,8 @@ publish: true
 aliases:
   - Adamant
 created: 2026-10-31T19:34:18.063Z
-modified: 2026-10-31T19:34:36.098Z
-published: 2026-10-31T19:34:36.098Z
+modified: 2026-10-31T22:50:57.536Z
+published: 2026-10-31T22:50:57.536Z
 tags:
   - gegenstand
 kategorie:

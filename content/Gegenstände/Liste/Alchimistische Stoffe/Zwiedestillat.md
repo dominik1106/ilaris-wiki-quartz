@@ -3,8 +3,8 @@ publish: true
 aliases:
   - zweimal destilliertes Wasser
 created: 2026-10-31T20:18:23.328Z
-modified: 2026-10-31T20:18:37.493Z
-published: 2026-10-31T20:18:37.493Z
+modified: 2026-10-31T22:50:57.532Z
+published: 2026-10-31T22:50:57.532Z
 tags:
   - gegenstand
 kategorie:
@@ -20,5 +20,5 @@ haltbarkeit:
 > _Auch bekannt als:\
 > **zweimal destilliertes Wasser**_
 
-- **Kategorie:** [[Templates/Alchimistische Stoffe|Alchimistische Stoffe]]
+- **Kategorie:** [[Gegenstände/Kategorien/Alchimistische Stoffe|Alchimistische Stoffe]]
 - **Preis**: 3 D / Stein
