@@ -36,9 +36,6 @@ properties:
 views:
   - type: table
     name: Standard
-    groupBy:
-      property: formula.Kategorie
-      direction: ASC
     order:
       - file.name
       - formula.Preis
@@ -46,7 +43,9 @@ views:
       - kategorie
       - preis
     sort:
-      - property: preis
+      - property: kategorie
+        direction: ASC
+      - property: file.name
         direction: ASC
   - type: table
     name: Schmucksteine
