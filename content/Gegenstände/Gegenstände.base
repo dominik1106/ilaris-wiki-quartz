@@ -33,7 +33,7 @@ properties:
   note.preis_notiz:
     displayName: Anmerkung Preis
   note.gewicht:
-    displayName: Gewicht
+    displayName: Gewicht in Unzen
   note.fassungsvermoegen:
     displayName: Fassungsvermögen
   note.herstellung_dauer:

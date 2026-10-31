@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-10-31T22:05:18.488Z
-modified: 2026-10-31T22:50:57.528Z
-published: 2026-10-31T22:50:57.528Z
+created: 2026-10-31T22:58:41.444Z
+modified: 2026-10-31T22:58:41.445Z
+published: 2026-10-31T22:58:41.445Z
 tags:
   - gegenstand
 aliases:
@@ -12,7 +12,7 @@ preis: 100
 preis_max:
 preis_notiz:
 einheit: Stück
-gewicht: 5 Unzen
+gewicht: 5
 haltbarkeit:
 fassungsvermoegen: 5 Schank
 ---

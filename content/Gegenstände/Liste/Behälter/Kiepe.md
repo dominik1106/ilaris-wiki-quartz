@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-10-31T21:55:19.333Z
-modified: 2026-10-31T22:50:57.530Z
-published: 2026-10-31T22:50:57.530Z
+created: 2026-10-31T22:58:41.445Z
+modified: 2026-10-31T22:58:41.446Z
+published: 2026-10-31T22:58:41.446Z
 tags:
   - gegenstand
 aliases:
@@ -12,7 +12,7 @@ preis: 700
 preis_max:
 preis_notiz:
 einheit: Stück
-gewicht: 80 Unzen
+gewicht: 80
 haltbarkeit:
 fassungsvermoegen: 20 Stein
 ---

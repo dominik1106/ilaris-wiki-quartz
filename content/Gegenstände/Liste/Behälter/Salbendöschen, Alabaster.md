@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-10-31T22:04:17.464Z
-modified: 2026-10-31T22:50:57.530Z
-published: 2026-10-31T22:50:57.530Z
+created: 2026-10-31T22:58:41.455Z
+modified: 2026-10-31T22:58:41.456Z
+published: 2026-10-31T22:58:41.456Z
 tags:
   - gegenstand
 aliases:
@@ -12,7 +12,7 @@ preis: 800
 preis_max:
 preis_notiz:
 einheit: Stück
-gewicht: 15 Unzen
+gewicht: 15
 haltbarkeit:
 fassungsvermoegen:
 ---

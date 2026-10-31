@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-10-31T22:04:55.697Z
-modified: 2026-10-31T22:50:57.528Z
-published: 2026-10-31T22:50:57.528Z
+created: 2026-10-31T22:58:41.431Z
+modified: 2026-10-31T22:58:41.432Z
+published: 2026-10-31T22:58:41.432Z
 tags:
   - gegenstand
 aliases:
@@ -12,7 +12,7 @@ preis: 1800
 preis_max:
 preis_notiz:
 einheit: Stück
-gewicht: 120 Unzen
+gewicht: 120
 haltbarkeit:
 fassungsvermoegen: 20 Maß
 ---

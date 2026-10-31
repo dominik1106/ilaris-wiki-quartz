@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-10-31T22:03:21.567Z
-modified: 2026-10-31T22:50:57.529Z
-published: 2026-10-31T22:50:57.529Z
+created: 2026-10-31T22:58:41.448Z
+modified: 2026-10-31T22:58:41.449Z
+published: 2026-10-31T22:58:41.449Z
 tags:
   - gegenstand
 aliases:
@@ -12,7 +12,7 @@ preis: 500
 preis_max:
 preis_notiz:
 einheit: Stück
-gewicht: 4 Unzen
+gewicht: 4
 haltbarkeit:
 fassungsvermoegen: 3 Flux
 ---
