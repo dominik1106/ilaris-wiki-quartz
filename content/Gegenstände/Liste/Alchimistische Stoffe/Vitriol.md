@@ -3,8 +3,8 @@ publish: true
 aliases:
   - Schwefelsäure
 created: 2026-10-30T18:42:27.727Z
-modified: 2026-10-30T19:14:44.031Z
-published: 2026-10-30T19:14:44.031Z
+modified: 2026-10-31T12:14:11.636Z
+published: 2026-10-31T12:14:11.636Z
 tags:
   - gegenstand
 kategorie:
