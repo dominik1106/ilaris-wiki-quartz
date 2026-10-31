@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-10-30T19:30:17.583Z
-modified: 2026-10-30T19:31:29.023Z
-published: 2026-10-30T19:31:29.023Z
+modified: 2026-10-31T11:36:10.242Z
+published: 2026-10-31T11:36:10.242Z
 tags:
   - gegenstand
   - herstellbar
@@ -12,7 +12,7 @@ kategorie:
 preis: 40000
 preis_max:
 preis_notiz:
-einheit: Stück`
+einheit: Stück
 gewicht:
 haltbarkeit: 1 Jahr
 herstellung_talent: magische Elixiere
@@ -32,7 +32,7 @@ herstellung_material_verbreitung: 7
 ---
 
 - **Kategorie:** [[Gegenstände/Kategorien/Alchemika|Alchemika]]
-- **Preis**: 40 D / Stück\`
+- **Preis**: 40 D / Stück
 - **Haltbarkeit**: 1 Jahr
 
 # Wirkung

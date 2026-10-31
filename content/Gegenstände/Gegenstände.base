@@ -2,8 +2,23 @@ filters:
   and:
     - file.hasTag("gegenstand")
     - file.folder != "Templates"
+formulas:
+  preis_anzeige: if(preis % 1000 == 0, (preis / 1000) + " D", if(preis % 100 == 0, (preis / 100) + " S", if(preis % 10 == 0, (preis / 10) + " H", preis + " K")))
+  preis_max_anzeige: if(preis_max % 1000 == 0, (preis_max / 1000) + " D", if(preis_max % 100 == 0, (preis_max / 100) + " S", if(preis_max % 10 == 0, (preis_max / 10) + " H", preis_max + " K")))
+  Preis: if(preis_max.isEmpty() || preis_max == preis, formula.preis_anzeige, formula.preis_anzeige + " - " + formula.preis_max_anzeige)
+properties:
+  note.preis:
+    displayName: Preis in Kreuzern
+  note.kategorie:
+    displayName: Kategorie
+  note.einheit:
+    displayName: Preis pro
 views:
   - type: table
     name: View
     order:
       - file.name
+      - formula.Preis
+      - einheit
+      - kategorie
+      - preis
