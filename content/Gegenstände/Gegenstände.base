@@ -122,3 +122,28 @@ views:
     sort:
       - property: file.name
         direction: ASC
+  - type: table
+    name: Metalle
+    filters:
+      and:
+        - kategorie.contains(link("Metalle"))
+    order:
+      - file.name
+      - formula.Preis
+      - einheit
+      - preis_notiz
+      - aliases
+    sort:
+      - property: preis
+        direction: ASC
+  - type: table
+    name: Reisebedarf
+    filters:
+      and:
+        - kategorie.contains(link("Reisebedarf"))
+    order:
+      - file.name
+      - formula.Preis
+      - einheit
+      - gewicht
+      - preis
