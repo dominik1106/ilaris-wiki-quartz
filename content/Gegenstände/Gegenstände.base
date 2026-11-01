@@ -147,3 +147,17 @@ views:
       - einheit
       - gewicht
       - preis
+  - type: table
+    name: Seile und Ketten
+    filters:
+      and:
+        - kategorie.contains(link("Seile und Ketten"))
+    order:
+      - file.name
+      - formula.Preis
+      - einheit
+      - gewicht
+      - preis
+    sort:
+      - property: preis
+        direction: ASC
